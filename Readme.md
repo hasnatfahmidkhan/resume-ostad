@@ -13,7 +13,10 @@ A modern, animated landing page built to help Graphic Designers and Frontend Dev
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-FF0055?style=flat-square&logo=framer&logoColor=white)](https://motion.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 
-[🌐 **Live Demo**](#) · [📖 **Documentation**](#-about) · [🚀 **Quick Start**](#-quick-start) · [🤝 **Contributing**](#-contributing)
+[![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-success?style=for-the-badge)](https://resumeostad.netlify.app/)
+[![Documentation](https://img.shields.io/badge/📖-Documentation-blue?style=for-the-badge)](#-about)
+[![Quick Start](https://img.shields.io/badge/🚀-Quick_Start-orange?style=for-the-badge)](#-quick-start)
+[![Contributing](https://img.shields.io/badge/🤝-Contributing-purple?style=for-the-badge)](#-contributing)
 
 </div>
 
