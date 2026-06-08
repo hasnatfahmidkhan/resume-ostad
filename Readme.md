@@ -22,7 +22,7 @@ A modern, animated landing page built to help Graphic Designers and Frontend Dev
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Preview-Coming_Soon-gray?style=for-the-badge" alt="Preview coming soon" />
+  <img src="https://res.cloudinary.com/dye6u4hpt/image/upload/q_auto/f_auto/v1780889932/Screenshot_2026-06-08_093739_sfrt0w.png" alt="Preview coming soon" />
 </div>
 
 > A fully animated, responsive single-page application with dark theme, glassmorphism effects, scroll-spy navigation, and interactive resume previews.
