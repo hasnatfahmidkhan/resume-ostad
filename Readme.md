@@ -252,6 +252,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 **Made with ❤️ for job seekers in 2026**
 
-_Confidence: High — these guidelines align with common ATS parsing practices and current hiring workflows._
+_These guidelines align with common ATS parsing practices and current hiring workflows._
 
 </div>
